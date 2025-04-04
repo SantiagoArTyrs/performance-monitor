@@ -24,7 +24,7 @@ Bienvenido al proyecto **Performance Monitor**, un sistema de backend construido
 ✅ Persistir datos de monitoreo en una base de datos  
 ✅ Exponer endpoints RESTful CRUD + PATCH  
 ✅ Aplicar buenas prácticas de desarrollo backend  
-✅ Impresionar al profesor 😎
+
 
 ---
 
