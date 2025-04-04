@@ -1,0 +1,4 @@
+  @GetMapping("/{id}")
+    public Optional<PerformanceData> getById(@PathVariable Long id) {
+        return repository.findById(id);
+    }
